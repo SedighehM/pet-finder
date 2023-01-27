@@ -23,7 +23,7 @@ describe("getStatics", () => {
     ];
 
     it("Should return expected result", () => {
-      const statics = utils.getStatics("colors", data);
+      const statics = utils.getStatics("color", data);
       expect(statics).toEqual(expectedResult);
     });
   });
