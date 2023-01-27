@@ -27,4 +27,5 @@ Note
 1)	Recommended node version : v14.16.0
 2)	Used VueJS and Vuetify for client side 
 3)	Used Nodejs and ExpressJs for server side
+4)	You can find some screenshots of final result in pictures folder
 
